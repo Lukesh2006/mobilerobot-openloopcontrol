@@ -96,7 +96,6 @@ if name == 'main':
 
 ## MobileRobot Movement Video:
 
-Upload your video in Youtube and paste your video-id here
 
 [![https://youtube.com/shorts/foJiOxiyVno?feature=share](https://youtube.com/shorts/foJiOxiyVno?feature=share)](https://youtube.com/shorts/foJiOxiyVno?feature=share)
 
